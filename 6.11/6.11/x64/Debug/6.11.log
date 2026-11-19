@@ -1,0 +1,6 @@
+﻿  main.c
+D:\Progammming\1119hw\6.11\6.11\main.c(27,22): warning C4474: 'printf': 傳遞給格式字串的引數太多
+      D:\Progammming\1119hw\6.11\6.11\main.c(27,22):
+      預留位置及其參數需要 1 個 variadic 引數，但卻提供了 2 個
+  
+  6.11.vcxproj -> D:\Progammming\1119hw\6.11\x64\Debug\6.11.exe

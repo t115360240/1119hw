@@ -1,0 +1,3 @@
+﻿  main.c
+D:\Progammming\1119hw\P08\P08\main.c(7,8): warning C4101: 'j': 未參考的區域變數
+  P08.vcxproj -> D:\Progammming\1119hw\P08\x64\Debug\P08.exe

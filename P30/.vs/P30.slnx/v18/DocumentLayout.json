@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Progammming\\1119hw\\P30\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB2A6814-3FB6-4F3A-A5B1-F7AC2C858E42}|P30\\P30.vcxproj|D:\\Progammming\\1119hw\\P30\\P30\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB2A6814-3FB6-4F3A-A5B1-F7AC2C858E42}|P30\\P30.vcxproj|solutionrelative:P30\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "D:\\Progammming\\1119hw\\P30\\P30\\main.c",
+              "RelativeDocumentMoniker": "P30\\main.c",
+              "ToolTip": "D:\\Progammming\\1119hw\\P30\\P30\\main.c",
+              "RelativeToolTip": "P30\\main.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-11-19T05:31:48.05Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
